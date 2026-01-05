@@ -1,0 +1,8 @@
+{
+  "name": "Lumina Academy",
+  "description": "A premium, professional educational platform and digital store offering high-quality courses, toolkits, and resources for lifelong learners.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
